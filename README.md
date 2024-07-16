@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Jay0494
-- 👀 I’m interested in digging out things and making sense out of nonsense 
+- 👋 Hi, I’m @Jay0494 a data detective.
+- My tools of operation is Powerbi, excel, SQL, and python 
+- 👀 I love digging into data to uncover mysteries, provide recommendations and solve problems.
+- I believe that nothing stays hidden, there is no problem without a solution as long as there is data.  
 - 🌱 I’m currently advancing in data analytics 
 - 💞️ I’m looking to collaborate on anything data.
-- 📫 How to reach me on elijah0494@gmail.com 
+- 📫 You can reach me on elijah0494@gmail.com or +44 07562920721 on whatsapp 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am fun to be around 
 
